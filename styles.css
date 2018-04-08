@@ -7,9 +7,10 @@ a:active {
 
 .image-cover {
   padding: 50px;
-  background-image: url(https://media1.tenor.com/images/d4d7a7e7111ab3a459de3e165bcafafe/tenor.gif?itemid=7631504);
+  background-image: url(https://media3.giphy.com/media/3rgXBvnbXtxwaWmhr2/200w.webp);
   background-size: cover;
   background-color: #3C2D64;
+  background-blend-mode: overlay; 
 }
 
 .image-cover-about {
