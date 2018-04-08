@@ -10,26 +10,26 @@ a:active {
   background-image: url(https://media3.giphy.com/media/3rgXBvnbXtxwaWmhr2/200w.webp);
   background-size: cover;
   background-color: #3C2D64;
-  background-blend-mode: overlay; 
+  background-blend-mode: overlay;
 }
 
 .image-cover-about {
   padding: 50px;
-  background-image: url(https://images.pexels.com/photos/692071/pexels-photo-692071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-image: url(https://media2.giphy.com/media/YbXtbKoi2ZUOc/200w.webp);
   background-size: cover;
   background-color: #3C2D64;
 }
 
 .image-cover-projecs {
   padding: 50px;
-  background-image: url(https://images.pexels.com/photos/253682/pexels-photo-253682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-image: url(https://media2.giphy.com/media/26FeY1xSah8v3Pkis/200w.webp);
   background-size: cover;
   background-color: #3C2D64;
 }
 
 .image-cover-contact {
   padding: 50px;
-  background-image: url(https://images.pexels.com/photos/196651/pexels-photo-196651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-image: url(https://media3.giphy.com/media/3o6Zt848s5ZzevKRhe/200w.webp);
   background-size: cover;
   background-color: #3C2D64;
 }
