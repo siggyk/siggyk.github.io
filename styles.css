@@ -1,0 +1,155 @@
+html {font-family: 'Montserrat', sans-serif;}
+
+a:active {
+  color: #ffffff
+}
+
+
+.image-cover {
+  padding: 50px;
+  background-image: url(https://media1.tenor.com/images/d4d7a7e7111ab3a459de3e165bcafafe/tenor.gif?itemid=7631504);
+  background-size: cover;
+  background-color: #3C2D64;
+}
+
+.image-cover-about {
+  padding: 50px;
+  background-image: url(https://images.pexels.com/photos/692071/pexels-photo-692071.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: cover;
+  background-color: #3C2D64;
+}
+
+.image-cover-projecs {
+  padding: 50px;
+  background-image: url(https://images.pexels.com/photos/253682/pexels-photo-253682.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: cover;
+  background-color: #3C2D64;
+}
+
+.image-cover-contact {
+  padding: 50px;
+  background-image: url(https://images.pexels.com/photos/196651/pexels-photo-196651.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: cover;
+  background-color: #3C2D64;
+}
+
+
+.white-section {
+  background-color: #ffffff;
+  padding: 50px;
+}
+
+.yellow-section {
+  background-color: #FFD549;
+  padding: 100px;
+}
+
+.purple-section {
+  background-color: #3C2D64;
+  padding: 50px;
+}
+
+.small-image {
+  max-width: 100%;
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+}
+
+
+.gallery {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 100px;
+}
+
+.gallery-image {
+  width: 30%;
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.wide-image {
+  width: 100%;
+}
+
+.dark-grey-color {
+  color:#071013;
+}
+
+.yellow-color {
+  color:#FFD549;
+}
+
+.white-color {
+  color:#ffffff;
+}
+
+.purple-color {
+  color:#3C2D64;
+}
+
+.link-style {
+  color:#FFD549;
+  text-align: center;
+  font-size: 25px;
+}
+
+.menu-cell {
+  text-align: right;
+}
+
+.back-cell {
+  text-align: left;
+}
+
+.menu-style {
+color: #ffffff;
+font-size: 20px;
+}
+
+
+h1 {
+  font-size: 120px;
+  text-align: center;
+  font-weight: 900;
+  line-height: 130px;
+  padding: 150px;
+}
+
+h2 {
+  font-size: 38px;
+  text-align: center;
+  font-weight: 600;
+  line-height: 52px;
+  padding: 50px;
+}
+
+h3 {
+font-size: 28px;
+text-align: center;
+line-height: 48px;
+}
+
+p {
+  font-size: 25px;
+  line-height: 38px;
+  font-weight: 600;
+}
+
+a {
+  font-size: 20px;
+  font-weight: 600;
+  padding: 10px;
+}
+
+/* @media only screen and (min-width: 760px) {
+  .textname {
+    font-size: 30px;
+  } */
